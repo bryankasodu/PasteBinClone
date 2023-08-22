@@ -11607,11 +11607,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\bkaso\\Documents\\projects\\PasteBinClone\\PasteBinClone.csproj",
+      "projectUniqueName": "c:\\Users\\bkaso\\OneDrive\\Dokumen\\GitHub\\PasteBinClone\\PasteBinClone.csproj",
       "projectName": "PasteBinClone",
-      "projectPath": "c:\\Users\\bkaso\\Documents\\projects\\PasteBinClone\\PasteBinClone.csproj",
+      "projectPath": "c:\\Users\\bkaso\\OneDrive\\Dokumen\\GitHub\\PasteBinClone\\PasteBinClone.csproj",
       "packagesPath": "C:\\Users\\bkaso\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\bkaso\\Documents\\projects\\PasteBinClone\\obj\\",
+      "outputPath": "c:\\Users\\bkaso\\OneDrive\\Dokumen\\GitHub\\PasteBinClone\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bkaso\\AppData\\Roaming\\NuGet\\NuGet.Config"
